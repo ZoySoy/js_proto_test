@@ -3,7 +3,6 @@ prototype test
 
 run test:
 
-  install nodejs \n
-  
-  
+  install nodejs 
+    
   *from root* node test
